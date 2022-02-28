@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ObjectToJsonConverterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-28T13:01:52" hostname="VWAGWOY73174" time="0.029">
+  <properties/>
+  <testcase name="givenObjectSerializedThenTrueReturned()" classname="ObjectToJsonConverterTest" time="0.029"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
